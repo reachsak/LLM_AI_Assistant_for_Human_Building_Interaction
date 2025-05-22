@@ -9,13 +9,14 @@ The Project aims to facilitate the human-building interaction within smart build
 
 <img src="/fig2.png" style="float: left; margin-right: 20px; max-width: 200px;">
 
+## Summary
+<img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
+<img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
+
 ## Video Demo
 [![Watch the demo video](https://img.youtube.com/vi/0SyZHvmadZA/0.jpg)](https://www.youtube.com/watch?v=0SyZHvmadZA)  
 *Click on the image to view the demo video.*
 
-## Summary
-<img src="/fig1.png" style="float: left; margin-right: 20px; max-width: 200px;">
-<img src="/equipment.png" style="float: left; margin-right: 20px; max-width: 200px;">
 
 ### Requirements
 - Open-source Large language model (e.g., LLaMA)
