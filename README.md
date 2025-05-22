@@ -36,6 +36,9 @@ You must use [`llama.cpp`](https://github.com/ggml-org/llama.cpp) for LLM infere
 
 > ⚠️ **Note**: [`Ollama`](https://ollama.com) is currently **not recommended**, as it may not support grammar syntax needed for function calling. However, you can check the latest updates on their site in case support has been added.
 
+For function calling , please refer to [llama-cpp-agent](https://github.com/Maximilian-Winter/llama-cpp-agent)
+
+
 ### Step 2: Install the Frontend Interface for the AI Assistant
 Navigate to the frontend directory:
 
